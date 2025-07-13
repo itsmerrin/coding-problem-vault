@@ -1,2 +1,1 @@
-# n-days-of-coding
-daily coding go brrr
+# coding-problem-vault
